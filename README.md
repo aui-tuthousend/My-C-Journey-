@@ -5,7 +5,9 @@ My C++ notes from IT class at College &lt;3
 //How to make Pattern
 main()
 
+
 {
+
     int input = 5;
     for (int i = 1; i<=input; i++)
     {
